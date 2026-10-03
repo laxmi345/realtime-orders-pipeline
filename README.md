@@ -1,4 +1,7 @@
 # Real-Time Orders Data Pipeline
+![CI](https://github.com/laxmi345/realtime-orders-pipeline/actions/workflows/ci.yml/badge.svg)
+
+![Dashboard](docs/dashboard.png)
 
 Kafka -> Spark Structured Streaming -> PostgreSQL -> Streamlit dashboard, fully Dockerized with GitHub Actions CI.
 
